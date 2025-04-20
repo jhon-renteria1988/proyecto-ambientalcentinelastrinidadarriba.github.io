@@ -33,6 +33,10 @@ p {
   width: 48%;
   border-radius: 8px;
 }
+img {
+  max-width: 100%;
+  height: auto;
+}
 form {
   display: flex;
   flex-direction: column;
